@@ -32,9 +32,9 @@ New projects and improvements will be added as I continue learning.
 
 | No. | Project | Status | Technologies |
 |:---:|---|:---:|---|
-| 01 | 🦠 COVID-19 Data Analysis | ✅ Completed | Python, Pandas, Matplotlib |
-| 02 | 🎬 Netflix Data Analysis | ✅ Completed | Python, Pandas, Seaborn |
-| 03 | 🛒 Walmart Sales Analysis | ✅ Completed | Python, Pandas, Seaborn |
+| 01 | 🍃 [COVID-19 Data Analysis](./01_COVID-19-Data-Analysis/) | 🟩 Completed | Python, Pandas, Matplotlib |
+| 02 | 🎬 [Netflix Data Analysis](./02_Netflix-Data-Analysis/) | 🟩 Completed | Python, Pandas, Seaborn |
+| 03 | 🛒 [Walmart Sales Analysis](./03_Walmart-Sales-Analysis/) | 🟩 Completed | Python, Pandas, Seaborn |
 | 04 | 🎓 Student Performance Analysis | 📌 Planned | Python, Pandas, Matplotlib |
 | 05 | 🎮 Pokémon Data Analysis | 📌 Planned | Python, Pandas, Matplotlib |
 | 06 | 🏠 Housing Data Analysis | 📌 Planned | Python, Pandas, Seaborn |
